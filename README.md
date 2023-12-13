@@ -83,6 +83,10 @@
     <img src="https://img.shields.io/static/v1?logo=crowdin&label=&message=Crowdin&color=444444&logoColor=AAA&style=flat-square">
     <img src="https://img.shields.io/static/v1?logo=paypal&label=&message=PayPal&color=444444&logoColor=AAA&style=flat-square">
     <img src="https://img.shields.io/static/v1?logo=cloudflare&label=&message=Cloudflare&color=444444&logoColor=AAA&style=flat-square">
+   <img src="https://img.shields.io/static/v1?logo=stripe&label=&message=Stripe&color=444444&logoColor=AAA&style=flat-square">
   </a>
+
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintenvw&hide=scss&theme=apprentice">
 
 </div>
