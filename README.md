@@ -86,7 +86,4 @@
    <img src="https://img.shields.io/static/v1?logo=stripe&label=&message=Stripe&color=444444&logoColor=AAA&style=flat-square">
   </a>
 
-   <hr>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintenvw&hide=scss&theme=apprentice">
-
 </div>
